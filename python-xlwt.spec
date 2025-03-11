@@ -7,7 +7,7 @@
 Summary:	Library to create spreadsheets compatible with MS Excel 97/2000/XP/2003 XLS
 Name:		python-%{module}
 Version:	1.3.0
-Release:	5
+Release:	6
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/xlwt/
